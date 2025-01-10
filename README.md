@@ -17,6 +17,7 @@ Part 1:
 Take care of EDA and the bulk of the data preprocessing
 Establish performance metrics for our problem
 Begin modeling with minimal tuning
+
 Part 2:
 
 Apply universal scaling on all features (including the PCA-engineered features)
