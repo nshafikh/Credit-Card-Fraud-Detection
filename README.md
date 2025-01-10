@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection: A Machine Learning Approach
 
 ## Objective
-Classify transactions as fraudulent or non-fraudulent using machine learning techniques, prioritizing recall while maintaining reasonable precision.
+Classify transactions as fraudulent or non-fraudulent using machine learning
 
 ---
 
