@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-Objective
+## Objective
 Classify transactions as fraudulent or non-fraudulent using machine learning.
 
 Dataset
@@ -11,7 +11,7 @@ Fraudulent transactions: 492 (0.172% of all transactions)
 
 Features: time, V1-V28 (PCA features), amount, class
 
-Action plan
+## Action plan
 Part 1:
 
 Take care of EDA and the bulk of the data preprocessing
