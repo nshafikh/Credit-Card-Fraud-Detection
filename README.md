@@ -56,10 +56,3 @@ Classify transactions as fraudulent or non-fraudulent using machine learning
 3. **Model Selection**:
    - KNN and XGBoost trained on imbalanced data and LightGBM trained on SMOTE data emerged as leaders, depending on desired recall/precision balance.  
    - KNN is ideal for maximizing recall (critical for fraud detection).  
-
----
-
-## Future Steps
-- Explore hyperparameter tuning (e.g., Grid Search, Random Search).  
-- Investigate additional models (e.g., SVM for undersampled data).  
-- Combine SMOTE with LightGBM for deeper evaluation.  
