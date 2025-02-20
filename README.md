@@ -55,4 +55,6 @@ Classify transactions as fraudulent or non-fraudulent using machine learning
    - Improved LightGBM but reduced performance for KNN and Decision Trees.
 3. **Model Selection**:
    - KNN and XGBoost trained on imbalanced data and LightGBM trained on SMOTE data emerged as leaders, depending on desired recall/precision balance.  
-   - KNN is ideal for maximizing recall (critical for fraud detection).  
+   - KNN is ideal for maximizing recall (critical for fraud detection).
+   - All in all, we see a 14.7% AUC-PR increase & 26% recall boost over the baseline logistic regression model
+
