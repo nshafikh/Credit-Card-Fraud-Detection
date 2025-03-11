@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection: A Machine Learning Approach
 
+![Credit Card Fraud](https://github.com/user-attachments/assets/a2f07380-5465-4a0e-91d0-7ef0a1178091)
+
 ## Objective
 Classify transactions as fraudulent or non-fraudulent using machine learning
 
